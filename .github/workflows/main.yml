@@ -46,7 +46,7 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          python daily_arxiv.py --update_paper_links
+          python auto_arxiv.py --update_paper_links
           
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
