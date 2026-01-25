@@ -1,4 +1,4 @@
-## Updated on 2026.01.24
+## Updated on 2026.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-12-09**|**EgoX: Egocentric Video Generation from a Single Exocentric Video**|Taewoong Kang et.al.|[2512.08269](http://arxiv.org/abs/2512.08269)|null|
 |**2025-12-09**|**Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions**|Eunice Yiu et.al.|[2512.08230](http://arxiv.org/abs/2512.08230)|null|
 
-<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
